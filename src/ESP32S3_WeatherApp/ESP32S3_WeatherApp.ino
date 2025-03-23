@@ -10,12 +10,12 @@
 #include <WiFiUdp.h>
 
 // WiFi
-const char* ssid = "Ancysibi";
-const char* password = "121Ryansibi";
+const char* ssid = "AP";
+const char* password = "pass";
 
 // OpenWeatherMap
 char city[32] = "Toronto"; 
-char apiKey[64] = "3ec28e5011fbdd0782c240b9aceebd8d"; // Replace with your OpenWeatherMap API key
+char apiKey[64] = "dndndndndnddnnddndndn"; // Replace with your OpenWeatherMap API key
 
 // TFT Pins
 #define TFT_CS   10
