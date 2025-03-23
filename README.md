@@ -102,4 +102,4 @@ esp32-weather-app/
 
 ## 📜 License
 
-MIT License. Feel free to use and modify for your own projects!
+MIT License [LICENSE]. Feel free to use and modify for your own projects!
